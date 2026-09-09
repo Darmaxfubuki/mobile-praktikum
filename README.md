@@ -24,3 +24,17 @@ Darmawan
 ## Status
 Proyek awal perkuliahan.
 
+## Tujuan Aplikasi
+Aplikasi mobile latihan dasar yang dikembangkan menggunakan Flutter untuk memenuhi capaian praktikum pemrograman perangkat bergerak.
+
+## Rencana Fitur
+1. Halaman utama (dashboard) dengan antarmuka yang rapi.
+2. Navigasi perpindahan antar-halaman secara interaktif.
+3. Formulir input data pengguna dengan validasi sederhana.
+
+## Cara Menjalankan
+Pastikan Flutter SDK sudah terpasang dan terkonfigurasi. Jalankan perintah berikut di direktori proyek:
+```bash
+flutter pub get
+flutter run 
+```
